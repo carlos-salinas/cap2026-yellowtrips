@@ -1,0 +1,1 @@
+docker run -p 8888:8888 -p 4040:4040 -p 18080:18080  quay.io/jupyter/pyspark-notebook
